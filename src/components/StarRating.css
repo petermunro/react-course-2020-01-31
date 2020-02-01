@@ -1,0 +1,8 @@
+.star-rating {
+  font-size: 2rem;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 0.5rem;
+  margin: 1rem;
+  text-align: center;
+}
